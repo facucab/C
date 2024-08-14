@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1714077712 source:/home/facundo/Documentos/Topicos/03_Cadenas/alumno.c
+	"Alumno.h"
+
+1714077648 /home/facundo/Documentos/Topicos/03_Cadenas/Alumno.h
+
+1714080950 source:/home/facundo/Documentos/Topicos/03_Cadenas/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

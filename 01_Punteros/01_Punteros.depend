@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1712440066 source:/home/facundo/Documentos/Topicos/01_Punteros/main.c
+	<stdio.h>
+	<stdlib.h>
+

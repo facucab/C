@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1717100941 source:c:\users\usuario\documents\topicos\06_funcionesbibliotecas\main.c
+	<stdio.h>
+	<stdlib.h>
+

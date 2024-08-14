@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1713045450 source:/home/facundo/Documentos/Topicos/TDA_Vectores/EjercicioTDA/main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+

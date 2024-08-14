@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1717171365 source:c:\users\usuario\documents\topicos\07_mapreducefilterreduce\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
